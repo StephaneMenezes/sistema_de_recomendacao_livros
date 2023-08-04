@@ -1,7 +1,5 @@
 <h1 align="center">
 <br>
-<br>
-<br>
 # Sistema de Recomendação de Livros utilizando Aprendizado de Máquina não supervisionado e o algoritmo K-NN
 </h1>
 
