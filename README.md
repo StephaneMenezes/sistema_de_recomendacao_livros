@@ -1,6 +1,5 @@
 <h1 align="center">
 <br>
-  <img src="https://o.remove.bg/downloads/00e2a1e8-14fb-43f1-b351-49b9d162f9ec/image-removebg-preview.png" alt="YOUR_PROJECT_NAME" width="280">
 <br>
 <br>
 # Sistema de Recomendação de Livros utilizando Aprendizado de Máquina não supervisionado e o algoritmo K-NN
